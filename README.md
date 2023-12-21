@@ -1,4 +1,4 @@
-Tableau: Netflix Trends Dashboard
+# Tableau: Netflix Trends Dashboard
 This interactive dashboard explores fascinating trends within the vast Netflix catalogue, empowering viewers and analysts to delve deeper into the content library.
 
 Key insights at your fingertips:

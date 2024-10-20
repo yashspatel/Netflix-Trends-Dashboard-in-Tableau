@@ -36,7 +36,7 @@ Dive into the data and discover the untold stories within Netflix!
 
 To learn more about this project and others:
 
-- [*Portfolio*](https://yashspatel.netlify.app/)
+- [*Portfolio*](https://www.yashpatel.work/)
 - [*LinkedIn*](https://www.linkedin.com/in/yashsanjaykumarpatel/)
 - [*GitHub*](https://github.com/yashspatel)
 - [*My Resume*](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf) 
